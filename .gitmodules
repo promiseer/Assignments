@@ -1,0 +1,24 @@
+[submodule "answerAI"]
+	path = answerAI
+	url = git@github.com-personal:promiseer/Parmeshwar-Rathod-AnswersAi-Backend.git
+[submodule "catoff"]
+	path = catoff
+	url = git@github.com-personal:promiseer/catoff-assignment.git
+[submodule "letsEndorse/chat-app"]
+	path = letsEndorse/chat-app
+	url = git@github.com-personal:promiseer/chat-app.git
+[submodule "bhumio"]
+	path = bhumio
+	url = git@github.com-personal:promiseer/bhumio.git
+[submodule "KoshAI"]
+	path = KoshAI
+	url = git@github.com-personal:promiseer/pdf-extractor.git
+[submodule "dataseers"]
+	path = dataseers
+	url = git@github.com-personal:promiseer/dataseers.git
+[submodule "InterviewQuestions"]
+	path = InterviewQuestions
+	url = git@github.com-personal:promiseer/interviewQuestion.git
+[submodule "Upswing"]
+	path = Upswing
+	url = git@github.com-personal:promiseer/Upswing.git
